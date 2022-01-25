@@ -1,6 +1,6 @@
 # Phonebook-Manager
 The simple GUI version of "Contact-Phonebook-console" project (without contacts sorting).
-This application keeps records of phonebook contacts: their names, phone numbers. There is an opportunity to group contacts, delete and change it's information. Set star function is also included.
+This application keeps records of phonebook contacts: names, phone numbers. There is an opportunity to group contacts, delete and change it's information. Set star function is also included.
 
 Program functions:
 1. Add contacts.
